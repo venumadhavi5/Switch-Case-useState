@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  background-color: lightyellow;
+}
+
+form{
+  display: inline-block;
+  background-color: aqua;
+}
+form label{
+  display: inline-block;
+  width: 100px;
+}
+form div{
+  margin: 10px;
+}
+.innerLabel{
+  width: auto;
+
+}
+h1{
+ 
+  
+  color: blue;
+  font-style: italic;
+  
+}
+button{
+  background-color: yellow;
+  margin: 5px;
+  color: red;
+  font-size: 1rem;
+  font-style: oblique;
+ 
+}
